@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: hsl(0, 0%, 98%);
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -150px;
+    border: 2px solid black;
+    padding: 20px;
+  }

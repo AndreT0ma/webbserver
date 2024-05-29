@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: hsl(0, 0%, 98%);
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+table.center {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black; 
+    border-collapse: collapse; 
+  }
